@@ -1,2 +1,23 @@
 /* CSS styles */
+p{
+  color: grey;
+  line-height: 1.4;
+  margin: 1.5 pt;
+}
+img{float: right; height: 600px; width:25% }
+li {font-style: italic;
+color: teal}
+h3{color: green
+}
+p.intro{font-family: sans-serif
+font-size: 90%;
+font-weight: bold
+color: indigo}
+
+.book-info {
+font-family: sans-serif;
+font-size: 75%;
+font-weight: bold;
+color: grey;
+}
 
